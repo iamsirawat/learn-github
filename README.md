@@ -1,12 +1,20 @@
 # learn-github
 
-Senior Engineer (R&D Test Development and Data Analysts) at Seagate Technology with implementing R&D innovation in data storage technology and breakthrough hard drive platform by working on product design evaluation, testing system, programming in Python, data collection with large datasets, advanced data analysis, and data visualization.
+Alan Turing was a brilliant English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. His work had a profound impact on the development of computer science and artificial intelligence.
 
-At the same time, I am working and pursuing a master's degree in artificial intelligence for business analytics at KMITL. The core courses focus on artificial intelligence, machine learning, deep learning, data science, and business analytics. A degree allows studying on Saturday and Sunday which is expected the degree completed in 2026.
+Early Life and Education
+Born in London in 1912, Turing displayed exceptional intellectual abilities from a young age. He studied mathematics at the University of Cambridge, where he proved his mathematical genius.
 
-Previously, my background education was a Ph.D. in Chemical Engineering with expertise in catalysts, material science, and characterizations.
+Breaking the Enigma Code
+During World War II, Turing played a pivotal role in cracking the German Enigma code at Bletchley Park. His work is credited with shortening the war and saving countless lives.
 
-Programming Language: Python, C, SQL, Visual Basic.
-Data Tools: JMP, Numpy, Pandas, Excel Macro, Power BI, Tableau.
-Analytical Skills: advanced data analysis, reliability analysis, failure analysis, characterization, and data collection with large datasets.
-Hard Skills: artificial intelligence, machine learning, deep learning, data science, and business analytics.
+Pioneering Computer Science
+After the war, Turing turned his attention to computer science. He is considered one of the fathers of computer science, having developed the concept of the Turing machine, a theoretical model of computation that became the foundation for modern computers.
+
+The Turing Test
+Turing is also famous for proposing the Turing test, a method of determining whether a computer can think. This concept laid the groundwork for artificial intelligence.
+
+Tragic End
+Despite his immense contributions, Turing faced persecution for his homosexuality. In 1952, he was convicted of indecency and chemically castrated. He died by suicide in 1954 at the age of 41.
+
+In recent years, Turing's legacy has been recognized, and he has been granted a posthumous pardon for his conviction. His story is a testament to both human ingenuity and the challenges faced by those who dare to be different.
